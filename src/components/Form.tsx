@@ -19,7 +19,7 @@ export default function Form() {
       <label>
         Senha
         <input
-          type="text"
+          type="password"
           name="senha"
         />
       </label>
